@@ -31,7 +31,7 @@ def user_selection():
         print( name + " ,thank you for using the program!")
         in_use = False
     else:
-      print("\nSorry, Not a Valid Choice. Please try again!")
+      print("\nSorry, That is an invalid choice. Please try again!")
       return in_use
 
 
