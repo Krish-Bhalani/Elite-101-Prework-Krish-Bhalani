@@ -28,7 +28,7 @@ def user_selection():
     elif user_choice == 4:  
       choice_4() 
     elif user_choice == 5:  
-        print( name + " ,Thank you for using the program!")
+        print( name + " ,Thank you for using the program! Please come back again!")
         in_use = False
     else:
       print("\nSorry, That is an invalid choice. Please try again!")
